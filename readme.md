@@ -6,6 +6,7 @@ An image is not rendered with the `title` attribute in the `<img>` tag when usin
 * `<sc:image>` control in XSL rendering (.xslt)
 * `<sc:Image>` control in ASP.NET Web Forms layout or sublayout (.aspx or .ascx)
 * `@Html.Sitecore().Field("Image")` helper in ASP.NET MVC rendering (.cshtml)
+
 <br/>
 This patch allows to render the mentioned attribute.
 
